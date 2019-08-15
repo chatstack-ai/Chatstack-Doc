@@ -1,2 +1,2 @@
-# Chatstack-Docs
+# Chatstack-Doc
 Documentation for Chatstack
