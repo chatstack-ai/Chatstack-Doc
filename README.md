@@ -11,7 +11,7 @@ Chatstack后端特别为中文语言进行大量的机器学习算法优化，�
 
 Chatstack同时拥有企业级的用户管理权限，管理员可以自主为其他用户添加或删除训练NLU、修改意图及实体设置、调整NLU版本设置及修改训练数据的不同权限。
 
-Chatstack is a full pipeline UI for building Chinse NLU system.
+Chatstack is a full pipeline UI for building Chinese NLU system.
 
 With Chatstack, users don't need to write any code to be able to build customized Chinese NLU modules including defining intents and entities, labelling traning data, training NLU model, managing models, testing and deploying NLU module APIs.
 
