@@ -19,7 +19,7 @@ The backend of Chatstack is specially designed for Chinese language with many op
 
 Chatstack also has the industrial level user management capability. Administrator can set up access rights for different user roles on training NLU models, modifying intents and entities, changing NLU version settings and modifying training data.
 
-Our demo server is hosted on Google cloud platform and we thank Google for their support on GCP credits. 
+Our [demo server](http://chatstack.crownpku.com) is hosted on Google cloud platform and we thank Google for their support on GCP credits. 
 
 
 ### 意图管理
