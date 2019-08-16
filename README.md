@@ -45,15 +45,17 @@ curl -XPOST https://chatstack.crownpku.com:9091/model/parse?token=xxx -d '{"text
 
 
 
-### 公测demo在[chatstack.crownpku.com](http://chatstack.crownpku.com)
+### 公测Demo
 
-我们已经部署和开放了一套公测demo系统，供感兴趣的朋友免费试用。
+我们已经部署和开放了一套公测demo系统，给感兴趣的朋友免费试用。公测demo在[chatstack.crownpku.com](http://chatstack.crownpku.com)
 
 关注微信公众号“**王耳古**”，回复"**chatstack**"获取公测用户名和密码。
 
 感谢谷歌云赞助GCP credit supported activity.
 
-### 文档在[https://github.com/crownpku/Chatstack-Doc](https://github.com/crownpku/Chatstack-Doc)
+### 文档
+
+文档在[https://github.com/crownpku/Chatstack-Doc](https://github.com/crownpku/Chatstack-Doc)
 
 欢迎在上述github文档的Issues中提bug或建议新功能。
 
