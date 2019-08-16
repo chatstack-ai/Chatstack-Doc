@@ -1,7 +1,7 @@
 
 # Chatstack
 
-Chatstack是一个全流程搭建中文NLU的用户交互系统。
+Chatstack是一个搭建中文NLU的全流程用户交互系统。
 
 有了Chatstack，用户不用写一行代码就能够搭建定制化的中文NLU模组：定义意图和实体、标注数据、训练NLU模型、管理模型、测试和部署NLU模组。
 
