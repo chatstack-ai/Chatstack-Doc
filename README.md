@@ -47,7 +47,7 @@ curl -XPOST https://chatstack.crownpku.com:9091/model/parse?token=xxx -d '{"text
 
 ### 公测Demo
 
-我们已经部署和开放了一套公测demo系统，给感兴趣的朋友免费试用。公测demo在[chatstack.crownpku.com](http://chatstack.crownpku.com)
+我们已经部署和开放了第一个alpha版本做为公测的demo系统，给感兴趣的朋友免费试用。Demo在[chatstack.crownpku.com](http://chatstack.crownpku.com)
 
 关注微信公众号“**王耳古**”，回复"**chatstack**"获取公测用户名和密码。
 
