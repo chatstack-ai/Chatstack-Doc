@@ -3,14 +3,6 @@
 
 ![](http://www.crownpku.com/images/201908/login.png)
 
-Chatstack是一个搭建中文NLU的全流程用户交互系统。
-
-有了Chatstack，用户不用写一行代码就能够搭建定制化的中文NLU模组：定义意图和实体、标注数据、训练NLU模型、管理模型、测试和部署NLU模组。
-
-Chatstack后端特别为中文语言进行大量的机器学习算法优化，意图和实体识别准确率高、拓展性强，对训练数据的数量也没有太高的要求。
-
-Chatstack同时拥有企业级的用户管理权限，管理员可以自主为其他用户添加或删除训练NLU、修改意图及实体设置、调整NLU版本设置及修改训练数据的不同权限。
-
 Chatstack is a full pipeline UI for building Chinese NLU system.
 
 With Chatstack, developers don't need to write any code to be able to build customized Chinese NLU modules including defining intents and entities, labelling training data, training NLU model, managing models, testing and deploying NLU module APIs.
@@ -21,6 +13,13 @@ Chatstack also has the industrial level user management capability. Administrato
 
 Our [demo server](http://chatstack.crownpku.com) is hosted on Google cloud platform and we thank Google for their support on GCP credits. 
 
+Chatstack是一个搭建中文NLU的全流程用户交互系统。
+
+有了Chatstack，开发者不用写一行代码就能够搭建定制化的中文NLU模组：定义意图和实体、标注数据、训练NLU模型、管理模型、测试和部署NLU模组。
+
+Chatstack后端特别为中文语言进行大量的机器学习算法优化，意图和实体识别准确率高、拓展性强，对训练数据的数量也没有太高的要求。
+
+Chatstack同时拥有企业级的用户管理权限，管理员可以自主为其他用户添加或删除训练NLU、修改意图及实体设置、调整NLU版本设置及修改训练数据的不同权限。
 
 ### 意图管理
 
