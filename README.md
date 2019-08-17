@@ -13,7 +13,7 @@ Chatstack同时拥有企业级的用户管理权限，管理员可以自主为�
 
 Chatstack is a full pipeline UI for building Chinese NLU system.
 
-With Chatstack, users don't need to write any code to be able to build customized Chinese NLU modules including defining intents and entities, labelling traning data, training NLU model, managing models, testing and deploying NLU module APIs.
+With Chatstack, developers don't need to write any code to be able to build customized Chinese NLU modules including defining intents and entities, labelling training data, training NLU model, managing models, testing and deploying NLU module APIs.
 
 The backend of Chatstack is specially designed for Chinese language with many optimizations on machine learning algorithms. The accuracy of intent and entity recognition is good with strong generalization capabilities even with small amount of training data.
 
