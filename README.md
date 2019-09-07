@@ -11,7 +11,7 @@ The backend of Chatstack is specially designed for Chinese language with many op
 
 Chatstack also has the industrial level user management capability. Administrator can set up access rights for different user roles on training NLU models, modifying intents and entities, changing NLU version settings and modifying training data.
 
-Our [demo server](http://chatstack.crownpku.com) is hosted on Google cloud platform and we thank Google for their support on GCP credits. 
+Our [demo server](http://demo.chatstack.ai) is hosted on Google cloud platform and we thank Google for their support on GCP credits. 
 
 Chatstack是一个搭建中文NLU的全流程用户交互系统。
 
@@ -56,7 +56,7 @@ curl -XPOST https://chatstack.crownpku.com:9091/model/parse?token=xxx -d '{"text
 
 ### 公测Demo
 
-我们已经部署和开放了第一个alpha版本做为公测的demo系统，给感兴趣的朋友免费试用。Demo在[chatstack.crownpku.com](http://chatstack.crownpku.com)
+我们已经部署和开放了第一个alpha版本做为公测的demo系统，给感兴趣的朋友免费试用。Demo在[demo.chatstack.ai](http://demo.chatstack.ai)
 
 关注微信公众号“**王尔古**”，回复"**chatstack**"获取公测用户名和密码。
 
@@ -64,7 +64,7 @@ curl -XPOST https://chatstack.crownpku.com:9091/model/parse?token=xxx -d '{"text
 
 ### 文档
 
-文档在[https://github.com/crownpku/Chatstack-Doc](https://github.com/crownpku/Chatstack-Doc)
+文档在[https://github.com/chatstack-ai/Chatstack-Doc](https://github.com/chatstack-ai/Chatstack-Doc)
 
 欢迎在上述github文档的Issues中提bug或建议新功能。
 
